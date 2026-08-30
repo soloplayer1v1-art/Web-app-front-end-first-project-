@@ -21,7 +21,7 @@ GETTING STARTED
 Clone the repository or download the ZIP file:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/soloplayer1v1-art/Web-app-front-end-first-project-
 Open the project folder in your code editor (such as VS Code).
 
 Launch index.html using Live Server in your browser to view the live application.
